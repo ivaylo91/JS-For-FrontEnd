@@ -1,0 +1,48 @@
+div {
+  background: #A52A2A;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  color: #ffffff;
+  text-align: center;
+  margin: 6% auto;
+  padding-top: 10px; }
+  div div {
+    background: #0000FF;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    color: #ffffff;
+    text-align: center;
+    margin: 6% auto;
+    padding-top: 10px; }
+    div div div {
+      background: #ADFF2F;
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      color: #ffffff;
+      text-align: center;
+      margin: 6% auto;
+      padding-top: 10px; }
+      div div div div {
+        background: #FFFF00;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        color: #ffffff;
+        text-align: center;
+        margin: 6% auto;
+        padding-top: 10px; }
+        div div div div div {
+          background: #FF0000;
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+          color: #ffffff;
+          text-align: center;
+          margin: 6% auto;
+          padding-top: 10px;
+          margin-top: 12%; }
+
+/*# sourceMappingURL=sass-style.css.map */
