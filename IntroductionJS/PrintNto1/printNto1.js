@@ -3,5 +3,4 @@ function printNto1(n) {
         console.log(i);
     }
 }
-
 printNto1(5);
